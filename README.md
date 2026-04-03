@@ -6,7 +6,6 @@
 ![GitHub Forks](https://img.shields.io/github/forks/NITHISH74/EquityRevenue-Dashboard?style=for-the-badge&color=green)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-99.9%-orange?style=for-the-badge&logo=html5)
 
 **Interactive dashboards comparing stock price vs quarterly revenue for Tesla (TSLA) and GameStop (GME)**
 
